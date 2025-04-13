@@ -1,9 +1,12 @@
 [
-  "Amazon",
-  "Google",
-  "Meta",
-  "Apple",
-  "IBM",
-  "Oracle",
-  "Tesla"
+  "Oracle", "Dell", "Satyam Venture Engineering Services", "Applied Materials", "GlobalLogic",
+  "Georgia Tech Research Institute", "GTRI", "General Atomics", "IBM", "Ford Motor Company",
+  "General Dynamics Mission Systems", "GDMS", "SIG SAUER", "Commonwealth Fusion Systems",
+  "University of Colorado Boulder", "Amazon", "Scythe Robotics", "Boston Scientific", "Apple",
+  "Globus Medical", "Bastian Solutions", "Phantom AI", "Boeing", "Locus Robotics", "Flint Group",
+  "AMD", "Advanced Micro Devices", "NVIDIA Corporation", "ArcBest Technologies",
+  "DEKA Research & Development Corporation", "Kimberly-Clark Corporation",
+  "Kimberly-Clark USA, LLC", "Ample, Inc.", "Piper Companies", "Akkodis", "Procal Technologies",
+  "Anduril Industries", "OSI Engineering", "Symbotic Inc.", "Green Hills Software Inc.",
+  "Clarapath Inc.", "Prodigy Technologies Inc.", "Gatik AI Inc."
 ]
